@@ -15,7 +15,7 @@
 </div>
 
 #
- 
+
 ### 🧰 Languages and Tools
 
 <img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
@@ -42,9 +42,10 @@
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Nginx" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" />
                     
-<br />
+<br /><br />
 
 #
+
 
 ### 📫 How to reach me
 
@@ -56,7 +57,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 </p>
-
+<br /><br />
 <!--
 **MarkoSimka/MarkoSimka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
