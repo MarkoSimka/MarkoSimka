@@ -8,8 +8,6 @@
 
 <div align="start">
  
-👨‍💻 I’m currently working on a **Project management application, check out my [progress](https://github.com/MarkoSimka/Project_management_app)**
- 
 🤔 Learning about **Docker, serverless architectures, Flutter and GCP**
 
 </div>
