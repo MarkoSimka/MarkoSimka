@@ -10,7 +10,7 @@
 👷 Currently working on a Ecommerce React application
 </div>
 <div align="start">
-🤔 Learning about **Docker, serverless architectures, Flutter and GCP**
+🤔 Learning React with Redux, Java Spring Boot, Docker, GitHub Actions (CI/CD), and AWS fundamentals, while improving my backend and DevOps skills through hands-on projects.   
 </div>
 
 #
