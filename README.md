@@ -7,7 +7,7 @@
 <br/>
 
 <div align="start">
- 
+👷 Currently working on a Ecommerce React application
 🤔 Learning about **Docker, serverless architectures, Flutter and GCP**
 
 </div>
