@@ -8,8 +8,9 @@
 
 <div align="start">
 👷 Currently working on a Ecommerce React application
+</div>
+<div align="start">
 🤔 Learning about **Docker, serverless architectures, Flutter and GCP**
-
 </div>
 
 #
