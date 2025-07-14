@@ -7,7 +7,7 @@
 <br/>
 
 <div align="start">
-👷 Currently working on a Ecommerce React application
+👷 Currently working on a Skill Exchange system -> SkillX
 </div>
 <div align="start">
 🤔 Learning more about React with Redux, Java Spring Boot, Docker, GitHub Actions (CI/CD), and AWS fundamentals, while improving my backend and DevOps skills through hands-on projects.   
