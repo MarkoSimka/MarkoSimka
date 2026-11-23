@@ -4,7 +4,7 @@
 
 ### Software Engineer · Backend & Cloud 🇲🇰
 
-Backend-focused Software Engineer with **3+ years of professional experience** building backend applications, APIs and cloud-based solutions.
+Backend-focused Software Engineer, building backend applications, APIs and cloud-based solutions.
 
 Specialized in **PHP (Laravel, Symfony) and Python**, with hands-on experience in AWS, serverless architecture, Infrastructure as Code and CI/CD automation.
 
