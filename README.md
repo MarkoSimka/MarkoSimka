@@ -23,7 +23,6 @@ Specialized in **PHP (Laravel, Symfony) and Python**, with hands-on experience i
 **Cloud, Infrastructure & Tools**
 
 <img src="https://skillicons.dev/icons?i=aws,docker,linux,nginx,mysql,git,gitlab" />
-<img src="https://img.shields.io/badge/GitHub-FFFFFF?style=flat&logo=github&logoColor=181717" />
 
 **AWS Services:** Lambda, API Gateway, DynamoDB, S3, EC2, VPC, Aurora, ElastiCache, OpenSearch, IAM, Secrets Manager, Amazon Bedrock.
 
