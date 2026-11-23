@@ -1,60 +1,67 @@
 <h1 align="start">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Ubuntu+Sans+Mono&size=35&start=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Marko+Simonoski!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Ubuntu+Sans+Mono&size=35&start=true&vCenter=true&width=550&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Marko+Simonoski!;" />
 </h1>
 
-<div align="start"><span>A passionate software engineer from Macedonia 🇲🇰.<br/> I love diving into new technologies and building cool projects that solve real-world problems.</span></div>
+### Software Engineer · Backend & Cloud 🇲🇰
 
-<br/>
+Backend-focused Software Engineer with **3+ years of professional experience** building backend applications, APIs and cloud-based solutions.
 
-<div align="start">
-👷 Currently working on a Skill Exchange system -> SkillX
-</div>
-<div align="start">
-🤔 Learning more about React with Redux, Java Spring Boot, Docker, GitHub Actions (CI/CD), and AWS fundamentals, while improving my backend and DevOps skills through hands-on projects.   
-</div>
+Specialized in **PHP (Laravel, Symfony) and Python**, with hands-on experience in AWS, serverless architecture, Infrastructure as Code and CI/CD automation.
 
-#
-
-### 🧰 Languages and Tools
-
-<img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-<img align="left" alt="Laravel" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-<img align="left" alt="Next" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="Flutter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
-<img align="left" alt="Firebase" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-
-<br /><br />
-
-<img align="left" alt="MaterialUi" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" />  
-<img align="left" alt="TailwindCss" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Nginx" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" />
-                    
-<br /><br />
+<a href="https://www.credly.com/badges/0cccaac8-fd7f-4c07-8a7b-ca6b93e32fac">
+  <img src="https://img.shields.io/badge/AWS_Certified_Cloud_Practitioner-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900" />
+</a>
 
 #
 
+### 🧰 Tech Stack
 
-### 📫 How to reach me
+**Languages & Frameworks**
 
-<p align="start"> 
-  <a href="mailto:markosimonoski8173@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://linkedin.com/in/marko-simonoski/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-</p>
-<br /><br />
+<img src="https://skillicons.dev/icons?i=php,laravel,symfony,python,js,ts" />
+
+**Cloud, Infrastructure & Tools**
+
+<img src="https://skillicons.dev/icons?i=aws,docker,linux,nginx,mysql,git,gitlab" />
+<img src="https://img.shields.io/badge/GitHub-FFFFFF?style=flat&logo=github&logoColor=181717" />
+
+**AWS Services:** Lambda, API Gateway, DynamoDB, S3, EC2, VPC, Aurora, ElastiCache, OpenSearch, IAM, Secrets Manager, Amazon Bedrock.
+
+**Practices:** REST APIs · Clean Architecture · SOLID · Serverless · IaC · CI/CD · Least-privilege Security
+
+#
+
+### 🚀 Featured Work
+
+**AWS Bank Statement Reconciliation System**
+- Built a serverless invoice reconciliation solution using Python, AWS Lambda and Amazon Bedrock.
+- Integrated WHMCS and Slack, with automated infrastructure provisioning and CI/CD.
+
+**AWS Cloud Infrastructure for Production Applications**
+- Designed highly available AWS infrastructure for Symfony applications.
+- Implemented VPC, ALB, Auto Scaling, Aurora MySQL, Redis and OpenSearch.
+- Built Docker-based CI/CD pipelines with zero-downtime deployments.
+
+#
+
+### 🎓 Education & Certification
+
+- **BSc Software Engineering and Information Technologies** – FCSE
+- **AWS Certified Cloud Practitioner** – November 2025
+
+[View AWS Certification](https://www.credly.com/badges/0cccaac8-fd7f-4c07-8a7b-ca6b93e32fac)
+
+#
+
+### 📫 Connect with me
+
+<a href="mailto:markosimonoski8173@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+</a>
+<a href="https://linkedin.com/in/marko-simonoski/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
 <!--
-**MarkoSimka/MarkoSimka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**MarkoSimka/MarkoSimka** is a ✨ special ✨ repository because its README.md appears on your GitHub profile.
 -->
